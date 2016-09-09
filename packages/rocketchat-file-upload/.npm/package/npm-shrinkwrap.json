@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "mime-types": {
+      "version": "https://registry.npm.taobao.org/mime-types/download/mime-types-2.1.11.tgz",
+      "dependencies": {
+        "mime-db": {
+          "version": "https://registry.npm.taobao.org/mime-db/download/mime-db-1.23.0.tgz"
+        }
+      }
+    }
+  }
+}
