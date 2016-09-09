@@ -40,7 +40,7 @@
           "version": "3.10.1"
         },
         "request": {
-          "version": "2.72.0",
+          "version": "https://registry.npm.taobao.org/request/download/request-2.72.0.tgz",
           "dependencies": {
             "aws-sign2": {
               "version": "https://registry.npm.taobao.org/aws-sign2/download/aws-sign2-0.6.0.tgz"
@@ -271,7 +271,7 @@
               "version": "https://registry.npm.taobao.org/oauth-sign/download/oauth-sign-0.8.2.tgz"
             },
             "qs": {
-              "version": "6.1.0"
+              "version": "https://registry.npm.taobao.org/qs/download/qs-6.1.0.tgz"
             },
             "stringstream": {
               "version": "https://registry.npm.taobao.org/stringstream/download/stringstream-0.0.5.tgz"
