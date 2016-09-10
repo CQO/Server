@@ -1,6 +1,0 @@
-{
-  "template": "meteor",
-  "ports": [3000],
-  "name": "douChat",
-  "description": "一个聊天程序."
-}
