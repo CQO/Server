@@ -6,6 +6,7 @@
 
   Accounts.updateOrCreateUserFromExternalService = function(serviceName, serviceData, options) {
     var email, i, len, ref, user;
+	//console.log("555"+serviceName);
     if ((serviceName !== 'facebook' && serviceName !== 'github' && serviceName !== 'gitlab' && serviceName !== 'google' && serviceName !== 'meteor-developer' && serviceName !== 'linkedin' && serviceName !== 'twitter' && serviceName !== 'sandstorm') && serviceData._OAuthCustom !== true) {
       return;
     }
