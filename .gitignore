@@ -4,6 +4,7 @@
 **/tmp/*
 **/.meteor/dev_bundle
 /private/certs/*
+*/.DS_Store
 *.bak
 *.iml
 *.ipr
@@ -69,3 +70,5 @@ ecosystem.json
 pm2.json
 settings.json
 build.sh
+client/.DS_Store
+packages/.DS_Store
