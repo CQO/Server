@@ -4,7 +4,7 @@
 **/tmp/*
 **/.meteor/dev_bundle
 /private/certs/*
-*/.DS_Store
+.DS_Store
 *.bak
 *.iml
 *.ipr
